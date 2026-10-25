@@ -1,5 +1,9 @@
 ## Quickstart
 
+Requires:
+- QEMU
+- ISO of your preferred OS
+
 ```console
 ./setup.sh <path/to/your/iso>
 
